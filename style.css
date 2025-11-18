@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+   
+
+}
+.header{
+    min-height: 300px;
+    width: 100%;
+    background-image: url(5image\ for\ site.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.header{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    padding-top: 20px;
+    padding-left: 20px;
+    font-weight: 900;
+    font-size: 100px;
+}
+.fire{
+    background-color: rgb(255, 183, 0);
+    max-height:200vh; 
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.desc{
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(2, 3, 48);
+    font-weight: 700;
+    font-size: 50px;
+    margin-left: 310px;
+    padding-top: 10px;
+    
+    
+    
+}
+.title:hover{
+    color: aliceblue;
+    font-size: 60px;
+    font-weight: 900;
+}
+.number1{
+   
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+
+.number2{
+    margin-left: 800px;
+    margin-top: -250px;
+    text-decoration: none;
+    
+}
+.number3{
+    padding: 20px;
+    margin-left: 5px;
+    margin-top: -250px;
+    justify-content: space-between;
+}
+
+.M2{
+    margin-left:4px;
+}
